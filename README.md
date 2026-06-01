@@ -17,7 +17,16 @@ Data Engineering & Analytics Enthusiast 🚀 | Building Scalable Data Pipelines 
 - 📫 Reach me at **hariharan110704@gmail.com**
 
 ---
+🏆 Certifications 
 
+<img width="40" height="40" alt="badge" src="https://github.com/user-attachments/assets/3c621a9c-049f-4a49-97c2-06dfdd23f332" /> Databricks Certified Data Engineer Associate
+
+Issued by Databricks
+📅 June 2026
+
+[🔗 Verify Credential](https://credentials.databricks.com/7249558a-012d-473c-9aec-5ce3aa3f2ee0#acc.fa4qz91C "🔗 Verify Credential")
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hariharan-s-389118226/" target="blank">
